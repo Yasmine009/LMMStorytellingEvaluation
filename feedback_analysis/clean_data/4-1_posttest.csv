@@ -1,0 +1,15 @@
+Student,Q1,Q2,Q3,R1,R2,R3
+1,3,5,2.0,human,turbo,phi
+2,3,5,3.0,human,turbo,phi
+3,3,5,2.0,human,turbo,phi
+4,5,5,5.0,turbo,human,phi
+5,3,5,4.0,human,turbo,phi
+6,4,2,3.0,phi,turbo,human
+7,3,5,2.0,human,phi,turbo
+8,5,4,2.0,phi,human,turbo
+9,5,5,3.0,human,phi,turbo
+10,4,4,4.0,phi,human,turbo
+11,4,5,4.0,human,phi,turbo
+12,4,5,2.0,human,phi,turbo
+13,3,5,3.0,human,phi,turbo
+14,1,5,1.0,human,turbo,phi
