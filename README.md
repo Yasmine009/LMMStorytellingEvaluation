@@ -15,5 +15,5 @@ In this project, we integrate a fine-tuned version of Phi-3-mini model to an int
 ## Environment
 Create a conda environment with python version 3.11.5 and the requirements specified in `feedback_analysis/requirements.txt`.
 
-For 'api_generation_code.ipynb`to work, you need to specify your API key. 
+For `api_generation_code.ipynb` to work, you need to specify your API key. 
 
